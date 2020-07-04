@@ -1,1 +1,1 @@
-# cancerdetection_kaggle
+# Undergraduate project
